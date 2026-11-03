@@ -1,4 +1,21 @@
-# Mobil Bayii
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0f3460&height=180&section=header&text=Mobil%20Bayii&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Bayi%20Stok%20Otomasyonu%20%7C%20VTYS%20D%C3%B6nem%20Projesi&descSize=16&descColor=ccc&descAlignY=58" width="100%"/>
+
+<p>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-min%20SDK%2028-3DDC84?logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"></a>
+  <img src="https://img.shields.io/badge/Android%20Studio-Hedgehog-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio">
+</p>
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,sqlite,git,github" height="32" alt="teknoloji yığını" />
+
+<p><em>Kocaeli Üniversitesi · Bilişim Sistemleri Mühendisliği · VTYS Dönem Projesi</em></p>
+
+</div>
+
+---
 
 ## 📌 Proje Özeti
 
@@ -83,3 +100,9 @@ Proje kapsamında kullanılan başlıca tablolar:
 ---
 
 © 2025 – Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği – VTYS Dönem Projesi
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:16213e&height=100&section=footer" width="100%"/>
+
+</div>
